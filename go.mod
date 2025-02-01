@@ -3,7 +3,7 @@ module github.com/chickenzord/decentrss
 go 1.22.2
 
 require (
-	github.com/deatil/go-encoding v1.0.2007
+	github.com/deatil/go-encoding v1.0.3001
 	github.com/gorilla/feeds v1.2.0
 	github.com/labstack/echo/v4 v4.12.0
 	github.com/mmcdole/gofeed v1.3.0
