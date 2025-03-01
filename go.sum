@@ -5,8 +5,8 @@ github.com/andybalholm/cascadia v1.3.1/go.mod h1:R4bJ1UQfqADjvDa4P6HZHLh/3OxWWEq
 github.com/davecgh/go-spew v1.1.0/go.mod h1:J7Y8YcW2NihsgmVo/mv3lAwl/skON4iLHjSsI+c5H38=
 github.com/davecgh/go-spew v1.1.1 h1:vj9j/u1bqnvCEfJOwUhtlOARqs3+rkHYY13jYWTU97c=
 github.com/davecgh/go-spew v1.1.1/go.mod h1:J7Y8YcW2NihsgmVo/mv3lAwl/skON4iLHjSsI+c5H38=
-github.com/deatil/go-encoding v1.0.2007 h1:Z4K4SzAQQmNLuQzvFYdS0G/BUGxJPHD4HotvfJFIr6k=
-github.com/deatil/go-encoding v1.0.2007/go.mod h1:zwGNfO4DySUkTTgTDK4giY0kJzb2lHZSSS+ve5I2uX4=
+github.com/deatil/go-encoding v1.0.3003 h1:2b05UO+5JfVcXcOa8n/X3pm8aC6L6ET0mBZCb1kj3ck=
+github.com/deatil/go-encoding v1.0.3003/go.mod h1:lTMMKsG0RRPGZzdW2EPVJCA7HQy4o1ZQKPf5CmVDy2k=
 github.com/golang-jwt/jwt v3.2.2+incompatible h1:IfV12K8xAKAnZqdXVzCZ+TOjboZ2keLg81eXfW3O+oY=
 github.com/golang-jwt/jwt v3.2.2+incompatible/go.mod h1:8pz2t5EyA70fFQQSrl6XZXzqecmYZeUEB8OUGHkxJ+I=
 github.com/google/gofuzz v1.0.0/go.mod h1:dBl0BpW6vV/+mYPU4Po3pmUjxk6FQPldtuIdl/M65Eg=
